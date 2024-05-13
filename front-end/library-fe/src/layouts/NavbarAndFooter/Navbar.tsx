@@ -4,11 +4,11 @@ export const Navbar = () => {
             <div className="container-fluid">
                 <span className="navbar-brand">Luv 2 read</span>
                 <button className="navbar-toggler" type="button"
-                data-bs-toggle='collapse'
-                data-bs-target='#navbarNavDropdown'
-                aria-controls="navbarNavDropdown" 
-                aria-expanded='false'
-                aria-label="Toggle Navigation"
+                    data-bs-toggle='collapse'
+                    data-bs-target='#navbarNavDropdown'
+                    aria-controls="navbarNavDropdown"
+                    aria-expanded='false'
+                    aria-label="Toggle Navigation"
                 >
                     <span className="navbar-toggler-icon"></span>
                 </button>
